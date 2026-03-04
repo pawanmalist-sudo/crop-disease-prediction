@@ -1,0 +1,25 @@
+python -m streamlit run app.py
+```
+
+**Step 3** — Open browser:
+```
+http://localhost:8501
+
+✅ Steps to Run Project Every Time
+Step 1 — Open PowerShell
+
+Windows key + R → type powershell → Enter
+Step 2 — Go to Project Folder
+powershell
+
+p:
+cd P:\crop-disease-prediction
+Step 3 — Run the App
+powershell
+
+python -m streamlit run app.py
+```
+
+**Step 4 — Open Browser**
+```
+http://localhost:8501
